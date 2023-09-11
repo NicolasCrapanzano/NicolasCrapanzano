@@ -8,7 +8,7 @@
 ### *[Vetcenter landing page](https://nicolascrapanzano.github.io/vetcenterLanding/)/[Code](https://github.com/NicolasCrapanzano/vetcenterLanding)
 ### But making games without and engine is annoying (even 2D ones)
 ### So from 2022 to now(2023) i moved to the Godot engine.
-### i have made 3 games so far ( you can try them here https://cranile.itch.io/ ;) ) and im currently working on a VR game.
+### i have made 3 games in Godot so far ( you can try all my games [here](https://cranile.itch.io/) ;) ) and im currently working on a VR game.
 ### *[The epic quest for becoming a web dev](https://cranile.itch.io/the-epic-quest-for-becoming-a-web-dev)/[Code](https://github.com/NicolasCrapanzano/ludumdare51)
 ### *[A flower field](https://cranile.itch.io/a-flower-field)/[Code](https://github.com/NicolasCrapanzano/A-flower-field-32bitjam-)
 ### *[Parallel reality on dream land](https://cranile.itch.io/parallel-reality-on-dream-land)/[Code](https://github.com/NicolasCrapanzano/LSDJAM2022)
