@@ -1,7 +1,7 @@
 ### Hi there 👋 My Name is Nicolas.
 ### In my page you will mainly see videogames that i have made (or tried to) and some webpages
-### I have some experience with the unity engine (from 2018 to 2019)
-### From 2021 to 2022 i mainly worked as a front end developer with HTML, CSS and JS
+### I have some experience with the unity engine creating [4 little games](https://cranile.itch.io/) (from 2018 to 2019).
+### From 2021 to 2022 i mainly worked as a front end developer with HTML, CSS and JS.
 ### during that time i made some personal pages on the side and i tried to make an tilebased roguelike using only HTML and JS
 ### But making games without and engine is annoying (even 2D ones)
 ### So from 2022 to now(2023) i moved to the Godot engine.
